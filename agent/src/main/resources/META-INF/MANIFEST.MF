@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Premain-Class: com.jd.Main
+Agent-Class: com.jd.Main
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+
